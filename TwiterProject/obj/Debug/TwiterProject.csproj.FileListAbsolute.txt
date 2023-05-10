@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\TwiterProject\bin\Debug\TwiterProject.exe.config
+C:\Users\User\Desktop\TwiterProject\bin\Debug\TwiterProject.exe
+C:\Users\User\Desktop\TwiterProject\bin\Debug\TwiterProject.pdb
+C:\Users\User\Desktop\TwiterProject\obj\Debug\TwiterProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TwiterProject\obj\Debug\TwiterProject.Form1.resources
+C:\Users\User\Desktop\TwiterProject\obj\Debug\TwiterProject.Properties.Resources.resources
+C:\Users\User\Desktop\TwiterProject\obj\Debug\TwiterProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TwiterProject\obj\Debug\TwiterProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TwiterProject\obj\Debug\TwiterProject.exe
+C:\Users\User\Desktop\TwiterProject\obj\Debug\TwiterProject.pdb
