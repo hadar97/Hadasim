@@ -1,0 +1,10 @@
+body {
+    direction: rtl;
+    text-align: right;
+  }
+  form {
+    margin-top: 2em;
+    .form-field {
+      padding: 0.5em 2em;
+    }
+  }
